@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EWK20
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python, C, C++, React.js
-- 💞️ I’m a recent graduate who studied Electro-Mechanical Engineering, but has taken interest in the software aspect
+- 👀 I’m a full stack software engineer
+- 🌱 I’m currently learning Golang, Java, Next.js, Azure
+- 💞️ I studied Electro-Mechanical Engineering, but took an interest in the software engineering and have been learning since I graduated.
 - 📫 You can reach me @ echez.kojo@gmail.com
 
 <!---
