@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EWK20
-- 👀 I’m a full stack software engineer
+- 👀 I’m a full stack software engineer @ Capgemini
 - 🌱 I’m currently learning Golang, Java, Next.js, Azure
 - 💞️ I studied Electro-Mechanical Engineering, but took an interest in the software engineering and have been learning since I graduated.
 - 📫 You can reach me @ echez.kojo@gmail.com
