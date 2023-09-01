@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EWK20
-- 👀 I’m a full stack software engineer @ Capgemini
-- 🌱 I’m currently learning Golang, Java, Next.js, Azure
+- 👀 I’m a Cloud Engineer @ Experis
+- 👨🏾‍💻 I have experience with AWS, Azure, Terraform, Docker, Kubernetes, Golang, Java, Python, React, HTML, CSS, JS
+- 🌱 I’m currently learning Ansible & Jenkins
 - 💞️ I studied Electro-Mechanical Engineering, but took an interest in the software engineering and have been learning since I graduated.
 - 📫 You can reach me @ echez.kojo@gmail.com
 
